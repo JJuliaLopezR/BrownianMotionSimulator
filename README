@@ -1,0 +1,11 @@
+Lenguage:Spanish
+
+Sobre este proyecto: Este proyecto formó parte de mi formación académica mientras cursaba la materia de Métodos Numéricos. Se nos pidió crear un cálculo o simular un fenómeno físico en nuestras computadoras.
+
+En este proyecto se decidió simular el movimiento browniano, observado por primera vez en 1827 por el biólogo y botánico escocés Robert Brown. Este fenómeno fue observado inicialmente en una partícula de polen sobre el agua, la cual se movía aleatoriamente. En ese momento, no fue posible determinar por qué el polen se movía de esa manera. En un principio se planteó la posibilidad de que el polen pudiera contener algo de vida que lo hiciera moverse de esa forma; sin embargo, al repetir el experimento con polen de épocas anteriores, donde no podría existir actualmente alguna forma de vida, se volvió a observar este movimiento errático en la partícula de polen.
+
+No fue hasta 1905 cuando el científico alemán Albert Einstein detalló el mecanismo que provoca este movimiento. En su artículo, explicó que las partículas de polen están siendo movidas debido a las colisiones de las moléculas del agua golpeándolas en todas direcciones, lo que transmite energía cinética y provoca que el polen se mueva de esa forma tan errática. En 1908, este fenómeno fue confirmado por el científico francés Jean Perrin, lo cual lo hizo merecedor del Premio Nobel en 1926.
+
+En este proyecto se realizarán dos simulaciones: una en la que se crearán "n" partículas de polen que se moverán aleatoriamente, y otra simulando las moléculas de agua como esferas de radio finito golpeando una partícula de polen, similar a las simulaciones actuales que se encuentran en páginas como Wikipedia.
+
+Artículo de Wikipedia sobre el movimiento browniano: [Movimiento browniano - Wikipedia](https://es.wikipedia.org/wiki/Movimiento_browniano)
